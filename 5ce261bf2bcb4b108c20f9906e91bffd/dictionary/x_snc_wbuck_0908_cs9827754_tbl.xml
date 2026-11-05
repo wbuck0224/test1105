@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="2906430683841f10d18516447daad3cb" label="CS9827754_tbl" max_length="40" name="x_snc_wbuck_0908_cs9827754_tbl" type="collection">
+        <element label="Number" max_length="15" name="number" type="string"/>
+    </element>
+</database>

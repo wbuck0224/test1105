@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_wbuck_0908.admin" name="x_snc_wbuck_0908.admin">a0e2a1bf2bcb4b108c20f9906e91bfb1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-07 15:09:54</sys_created_on>
+        <sys_id>e8e2a1bf2bcb4b108c20f9906e91bfb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a0e2a1bf2bcb4b108c20f9906e91bfb1</sys_name>
+        <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e8e2a1bf2bcb4b108c20f9906e91bfb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-07 15:09:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

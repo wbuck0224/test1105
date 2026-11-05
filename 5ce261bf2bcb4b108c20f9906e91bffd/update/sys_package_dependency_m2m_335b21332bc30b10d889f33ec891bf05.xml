@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Incident" source="com.snc.incident">bd86f03fbdb222104f34afdd794b6a73</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-07 15:12:06</sys_created_on>
+        <sys_id>335b21332bc30b10d889f33ec891bf05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-07 15:12:06</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

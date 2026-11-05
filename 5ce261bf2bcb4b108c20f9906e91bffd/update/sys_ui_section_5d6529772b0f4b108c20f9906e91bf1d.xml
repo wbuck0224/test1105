@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5d6529772b0f4b108c20f9906e91bf1d" sys_domain="global" table="x_snc_wbuck_0908_tbl" version="3" view="workspace-workspace_test-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>596529772b0f4b108c20f9906e91bf5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>9d6529772b0f4b108c20f9906e91bf5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caller_id</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>1d6529772b0f4b108c20f9906e91bf3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>dd6529772b0f4b108c20f9906e91bf5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>956529772b0f4b108c20f9906e91bf3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>d96529772b0f4b108c20f9906e91bf3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>dd6529772b0f4b108c20f9906e91bf42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>156529772b0f4b108c20f9906e91bf42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>9d6529772b0f4b108c20f9906e91bf40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>d56529772b0f4b108c20f9906e91bf3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>156529772b0f4b108c20f9906e91bf5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>516529772b0f4b108c20f9906e91bf3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>d16529772b0f4b108c20f9906e91bf5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>196529772b0f4b108c20f9906e91bf5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>5d6529772b0f4b108c20f9906e91bf3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hold_reason</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>996529772b0f4b108c20f9906e91bf60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>916529772b0f4b108c20f9906e91bf3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>556529772b0f4b108c20f9906e91bf39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>d16529772b0f4b108c20f9906e91bf40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>196529772b0f4b108c20f9906e91bf3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>996529772b0f4b108c20f9906e91bf38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>596529772b0f4b108c20f9906e91bf41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>com.glideapp.questionset.DefaultQuestionEditor</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>116529772b0f4b108c20f9906e91bf3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="186b61332bc30b10d889f33ec891bf16">5d6529772b0f4b108c20f9906e91bf1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type>component</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_wbuck_0908_tbl</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d6529772b0f4b108c20f9906e91bf1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_wbuck_0908_tbl</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+            <sys_update_name>sys_ui_section_5d6529772b0f4b108c20f9906e91bf1d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace workspace_test 0" name="workspace-workspace_test-0">186b61332bc30b10d889f33ec891bf16</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

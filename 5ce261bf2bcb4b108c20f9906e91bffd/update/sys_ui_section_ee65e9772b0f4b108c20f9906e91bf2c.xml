@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Incident" section_id="ee65e9772b0f4b108c20f9906e91bf2c" sys_domain="global" table="x_snc_wbuck_0908_tbl" version="3" view="sow_new_record">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>6665e9772b0f4b108c20f9906e91bf3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>2a65e9772b0f4b108c20f9906e91bf41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>2265e9772b0f4b108c20f9906e91bf3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>e265e9772b0f4b108c20f9906e91bf42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caller_id</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>ea65e9772b0f4b108c20f9906e91bf3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>ae65e9772b0f4b108c20f9906e91bf42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>a665e9772b0f4b108c20f9906e91bf3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>6a65e9772b0f4b108c20f9906e91bf43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>6265e9772b0f4b108c20f9906e91bf3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>2665e9772b0f4b108c20f9906e91bf44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>2e65e9772b0f4b108c20f9906e91bf3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hold_reason</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>ee65e9772b0f4b108c20f9906e91bf44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>e665e9772b0f4b108c20f9906e91bf3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>aa65e9772b0f4b108c20f9906e91bf45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>a265e9772b0f4b108c20f9906e91bf40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>origin_table</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>6665e9772b0f4b108c20f9906e91bf46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>origin_id</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_id>6e65e9772b0f4b108c20f9906e91bf40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="d9a73438536330108b91ddeeff7b1283">ee65e9772b0f4b108c20f9906e91bf2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Incident</caption>
+            <header>false</header>
+            <name>x_snc_wbuck_0908_tbl</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee65e9772b0f4b108c20f9906e91bf2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_wbuck_0908_tbl</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+            <sys_update_name>sys_ui_section_ee65e9772b0f4b108c20f9906e91bf2c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Service Operations Workspace New Record" name="sow_new_record">d9a73438536330108b91ddeeff7b1283</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

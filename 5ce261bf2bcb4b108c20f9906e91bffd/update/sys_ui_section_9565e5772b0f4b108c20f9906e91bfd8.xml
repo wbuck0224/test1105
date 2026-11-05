@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Impact" section_id="9565e5772b0f4b108c20f9906e91bfd8" sys_domain="global" table="x_snc_wbuck_0908_tbl" version="3" view="sow">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_service</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>d565e5772b0f4b108c20f9906e91bfda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact" display_value="Impact" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9565e5772b0f4b108c20f9906e91bfd8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>1965e5772b0f4b108c20f9906e91bfdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact" display_value="Impact" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9565e5772b0f4b108c20f9906e91bfd8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>9d65e5772b0f4b108c20f9906e91bfdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact" display_value="Impact" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9565e5772b0f4b108c20f9906e91bfd8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_offering</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>9165e5772b0f4b108c20f9906e91bfdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact" display_value="Impact" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9565e5772b0f4b108c20f9906e91bfd8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>5d65e5772b0f4b108c20f9906e91bfdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact" display_value="Impact" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9565e5772b0f4b108c20f9906e91bfd8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_impact</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_id>d165e5772b0f4b108c20f9906e91bfdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impact" display_value="Impact" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9565e5772b0f4b108c20f9906e91bfd8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Impact</caption>
+            <header>false</header>
+            <name>x_snc_wbuck_0908_tbl</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9565e5772b0f4b108c20f9906e91bfd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_wbuck_0908_tbl</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+            <sys_update_name>sys_ui_section_9565e5772b0f4b108c20f9906e91bfd8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Service Operations Workspace" name="sow">f5c0a49877413010dc2c885d9f5a999e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Related Records" section_id="8965e5772b0f4b108c20f9906e91bfce" sys_domain="global" table="x_snc_wbuck_0908_tbl" version="3" view="sow">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_incident</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:51</sys_created_on>
+            <sys_id>8965e5772b0f4b108c20f9906e91bfd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">8965e5772b0f4b108c20f9906e91bfce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:51</sys_created_on>
+            <sys_id>4965e5772b0f4b108c20f9906e91bfd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">8965e5772b0f4b108c20f9906e91bfce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:51</sys_created_on>
+            <sys_id>0565e5772b0f4b108c20f9906e91bfd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">8965e5772b0f4b108c20f9906e91bfce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rfc</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:51</sys_created_on>
+            <sys_id>cd65e5772b0f4b108c20f9906e91bfd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">8965e5772b0f4b108c20f9906e91bfce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caused_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:51</sys_created_on>
+            <sys_id>4565e5772b0f4b108c20f9906e91bfd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">8965e5772b0f4b108c20f9906e91bfce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Related Records</caption>
+            <header>false</header>
+            <name>x_snc_wbuck_0908_tbl</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-07 15:20:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8965e5772b0f4b108c20f9906e91bfce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_wbuck_0908_tbl</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+            <sys_update_name>sys_ui_section_8965e5772b0f4b108c20f9906e91bfce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-07 15:20:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Service Operations Workspace" name="sow">f5c0a49877413010dc2c885d9f5a999e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
