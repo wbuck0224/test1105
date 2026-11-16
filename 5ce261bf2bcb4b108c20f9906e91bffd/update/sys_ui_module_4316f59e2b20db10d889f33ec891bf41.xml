@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="tbl1116">c316f59e2b20db10d889f33ec891bf3b</application>
+        <filter/>
+        <name>tbl1116s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_wbuck_0908.tbl1116_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 14:17:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4316f59e2b20db10d889f33ec891bf41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tbl1116s</sys_name>
+        <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+        <sys_update_name>sys_ui_module_4316f59e2b20db10d889f33ec891bf41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 14:17:12</sys_updated_on>
+        <table>x_snc_wbuck_0908_tbl1116</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
