@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>wakako.buck@snc</sys_created_by>
+        <sys_created_on>2026-11-19 00:10:30</sys_created_on>
+        <sys_id>2d115a0383ac5f10d18516447daad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wbuck_0908_test1.x_snc_wbuck_0908.test1_user</sys_name>
+        <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+        <sys_security_acl display_value="x_snc_wbuck_0908_test1">ed115a0383ac5f10d18516447daad3d6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2d115a0383ac5f10d18516447daad3eb</sys_update_name>
+        <sys_updated_by>wakako.buck@snc</sys_updated_by>
+        <sys_updated_on>2026-11-19 00:10:30</sys_updated_on>
+        <sys_user_role display_value="x_snc_wbuck_0908.test1_user" name="x_snc_wbuck_0908.test1_user">5d1112cf836c5f10d18516447daad34a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="ee01d60383ac5f10d18516447daad3dd" label="test1" max_length="40" name="x_snc_wbuck_0908_test1" type="collection"/>
+</database>
