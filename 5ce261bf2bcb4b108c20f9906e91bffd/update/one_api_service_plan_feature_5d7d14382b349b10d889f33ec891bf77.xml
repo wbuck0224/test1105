@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_service_plan_feature">
+    <one_api_service_plan_feature action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability_condition/>
+        <applicability_condition_expression/>
+        <applicability_condition_table/>
+        <applicability_script><![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]></applicability_script>
+        <applicability_type>script</applicability_type>
+        <delay_output_processing>false</delay_output_processing>
+        <depends_on/>
+        <depends_on_list/>
+        <error_policy>continue_service_plan_execution</error_policy>
+        <feature display_value="f066b237a3c3d2107104255a161e619c">d97d14382b349b10d889f33ec891bf6e</feature>
+        <return_request>false</return_request>
+        <service_plan display_value="___$y$t3m_bu1163r___-f066b237a3c3d2107104255a161e619c, 2cbb9fcc7fb012105e0f2334dc8665bd-default">597d14382b349b10d889f33ec891bf75</service_plan>
+        <sys_class_name>one_api_service_plan_feature</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-24 02:14:41</sys_created_on>
+        <sys_id>5d7d14382b349b10d889f33ec891bf77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>___$y$t3m_bu1163r___-f066b237a3c3d2107104255a161e619c, 2cbb9fcc7fb012105e0f2334dc8665bd-default: f066b237a3c3d2107104255a161e619c</sys_name>
+        <sys_package display_value="wbuck_0908" source="x_snc_wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wbuck_0908">5ce261bf2bcb4b108c20f9906e91bffd</sys_scope>
+        <sys_update_name>one_api_service_plan_feature_5d7d14382b349b10d889f33ec891bf77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-24 02:14:41</sys_updated_on>
+        <timeout_policy>continue_service_plan_execution</timeout_policy>
+        <timeout_sec>60</timeout_sec>
+    </one_api_service_plan_feature>
+</record_update>

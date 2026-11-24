@@ -38,7 +38,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_wbuck_0908_tbl" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">8165e5772b0f4b108c20f9906e91bf62</sys_ui_form>
-            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">0165e5772b0f4b108c20f9906e91bf90</sys_ui_section>
+            <sys_ui_section caption="Assignment_desu" display_value="Assignment_desu" name="x_snc_wbuck_0908_tbl" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">0165e5772b0f4b108c20f9906e91bf90</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-09-07 15:20:51</sys_updated_on>
         </sys_ui_form_section>
